@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scrapybara
+python-dotenv
+python-multipart
+openai-agents
+tenacity
+asyncio
+
